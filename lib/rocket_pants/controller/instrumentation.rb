@@ -33,5 +33,5 @@ module RocketPants
     end
 
   end
-  ActionController::LogSubscriber.attach_to :rocket_pants
+  # ActionController::LogSubscriber.attach_to :rocket_pants
 end
